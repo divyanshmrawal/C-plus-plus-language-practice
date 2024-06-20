@@ -1,6 +1,6 @@
-QUESTION -->Write a C program that reads an integer between 1 and 12 and prints the month of the year.
+//QUESTION -->Write a C program that reads an integer between 1 and 12 and prints the month of the year.
 
-ANSWER -->
+//ANSWER -->
 #include <iostream>
 using namespace std;
 
