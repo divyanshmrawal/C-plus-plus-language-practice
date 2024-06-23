@@ -1,3 +1,7 @@
+//QUESTION-->
+//Write a C program to calculate the sum of all numbers not divisible by 17 between two given integer numbers.
+
+//ANSWER->>
 #include <iostream>
 
 using namespace std;
