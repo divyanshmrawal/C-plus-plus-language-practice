@@ -1,3 +1,7 @@
+//QUESTION -->
+//Write a C program to compute the sum of consecutive odd numbers from a given pair of integers.
+
+//ANSWER -->
 #include <iostream>
 
 using namespace std;
