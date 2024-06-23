@@ -1,0 +1,27 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+	//Variable decelaration
+	int firstnum,secoundnum,i,sum=0;
+	
+				//Accepting first number
+	   cout<<"Enter your first number : ";
+	   cin>>firstnum;
+	
+	        //Accepting secound number
+        cout<<"Enter your secound number : ";
+	    cin>>secoundnum;
+	    
+	
+	for(i=firstnum;i<=secoundnum;i++){
+		
+			if((i%17)!=0){
+			sum=sum+i;
+		}
+		
+	}
+	cout<<sum;
+	return 0;
+}
