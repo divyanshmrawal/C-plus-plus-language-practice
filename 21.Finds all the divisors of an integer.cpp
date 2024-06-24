@@ -1,3 +1,7 @@
+//QUESTION-->
+//Write a C program that finds all the divisors of an integer.
+
+//ANSWER-->
 #include <iostream>
 
 using namespace std;
