@@ -1,10 +1,14 @@
+//QUESTION-->
+//Write a C program that accepts 4 real numbers from the keyboard and prints out the difference between the maximum and minimum values of these four numbers.
+
+//ANSWER-->
 #include <iostream>
 
 using namespace std;
 
 int main() {
 	int x,y,z,b,max,min,sum;
-	
+	//Accepting numbers 
 	cout<<"Enter your 1 number : ";
 	cin>>x;
 
