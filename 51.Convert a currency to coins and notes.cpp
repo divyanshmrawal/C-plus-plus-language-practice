@@ -1,3 +1,7 @@
+//QUESTION-->
+//Write a C program to convert a currency value (floating point with two decimal places) to the number of coins and notes
+
+//ANSWER-->
 #include <iostream>
 
 using namespace std;
