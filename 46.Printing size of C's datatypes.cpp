@@ -12,7 +12,7 @@ int main() {
 	int i;
 	double d;
 	float f;
-	
+	bool b;
 	//printing heading
 	cout<<"NAME  : "<<"\t"<<"SIZE"<<"\n";
 	cout<<"---------------------"<<"\n";
@@ -22,7 +22,7 @@ int main() {
 	cout<<"int   : "<<"\t"<<sizeof(i)<<"\n";
 	cout<<"double: "<<"\t"<<sizeof(d)<<"\n";
 	cout<<"float : "<<"\t"<<sizeof(f)<<"\n";
-	
+	cout<<"bool : "<<"\t"<<sizeof(b)<<"\n";
 	
 	return 0;
 }
