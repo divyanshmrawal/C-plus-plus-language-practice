@@ -1,8 +1,7 @@
 //QUESTION-->
-//
+// Write a C program to calculate body mass index and display the grade
 
-
-
+//ANSWER-->
 #include <iostream>
 #include <cmath>
 
