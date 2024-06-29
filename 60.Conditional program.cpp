@@ -1,3 +1,7 @@
+//QUESTION-->
+//Write a C program to find the odd, even, positive and negative numbers from a given number (integer) and print a message 'Number is positive odd' or 'Number is negative odd' or 'Number is positive even' or 'Number is negative even'. If the number is 0 print "Zero"
+
+//ANSWER-->
 #include <iostream>
 
 using namespace std;
