@@ -1,5 +1,5 @@
 //QUESTION-->
-//Write a C program that reads two integers and divides the first number by second, print the result of this division with two digits after the decimal point and prints “Division not possible..!” if the division is not possible
+//Write a C program that reads two integers and divides the first number by second, print the result of this division with two digits after the decimal point and prints â€œDivision not possible..!â€ if the division is not possible
 
 //ANSWER-->
 #include <iostream>
@@ -20,13 +20,14 @@ int main() {
 	//Checking result of division
 	if(n1%n2==0){
 		d=n1/n2;
-	}
+	
 	cout<<"Result of division : "<<d;
+	}
 	
 	if(n2%n1==0){
 		d=n2/n1;
-	}
-	cout<<"Result of division : "<<d;
 	
+	cout<<"Result of division : "<<d;
+	}
 	return 0;
 }
