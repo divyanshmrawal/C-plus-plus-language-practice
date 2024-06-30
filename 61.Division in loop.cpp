@@ -1,3 +1,7 @@
+//QUESTION-->
+//Write a C program that accepts an integer from the user and divides all numbers between 1 and 100. Print those numbers where the remainder value is 3
+
+//ANSWER-->
 #include <iostream>
 
 using namespace std;
