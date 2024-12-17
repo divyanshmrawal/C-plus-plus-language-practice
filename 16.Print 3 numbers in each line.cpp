@@ -1,7 +1,7 @@
 //QUESTION-->
 //Write a C program to print 3 numbers on a line, starting with 1 and printing n lines. Accept the number of lines (n, integer) from the user.
 
-//ANSWER-->
+//ANSWER->
 #include <iostream>
 
 using namespace std;
