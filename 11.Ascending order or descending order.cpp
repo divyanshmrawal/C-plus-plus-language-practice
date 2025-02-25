@@ -1,4 +1,4 @@
-//QUESTION-->
+//QUESTION->
 //Write a C program to check if two numbers in a pair are in ascending order or descending order
 
 //ANSWER-->
